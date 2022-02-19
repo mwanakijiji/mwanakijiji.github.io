@@ -5,25 +5,36 @@
     <link>https://mwanakijiji.github.io/</link>
     <description>Recent content on Eckhart&#39;s site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mwanakijiji.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>An early account of the Maasai</title>
-      <link>https://mwanakijiji.github.io/blog/</link>
-      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mwanakijiji.github.io/blog/</guid>
-      <description>Here is my translation of one of the oldest published accounts of the Maasai, the article &amp;ldquo;A short description of the Masai and Wakwafi tribes in southeast Africa&amp;rdquo; which appeared in the journal Das Ausland in 1857. The author was Johann Krapf, a missionary who lived in a village inland from Mombasa from 1846 to 1853. From there, he made a number of travels deep into the East African interior in what is now Kenya and Tanzania.</description>
-    </item>
-    
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mwanakijiji.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://mwanakijiji.github.io/personal/</link>
-      <pubDate>Tue, 29 Dec 2020 12:15:12 -0500</pubDate>
+      <link>https://mwanakijiji.github.io/personal/personal/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/personal/</guid>
+      <guid>https://mwanakijiji.github.io/personal/personal/</guid>
       <description>I&amp;rsquo;m originally from downstate Illinois, where I dropped out of high school and went to college. From time to time I have bounced around between three continents.
 In my free time I enjoy scuba diving, ham radio, international travel, reading excellent writing (here is a reading list), and the great outdoors.
 Above: I set up a WSPR (low-power) radio beacon with a dipole antenna and a Raspberry Pi in my apartment.</description>
+    </item>
+    
+    <item>
+      <title>An early account of the Maasai</title>
+      <link>https://mwanakijiji.github.io/blog/krapf/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mwanakijiji.github.io/blog/krapf/</guid>
+      <description>I have translated one of the oldest published accounts of the Maasai (with careful proofreading from my mom). It is the article &amp;ldquo;A short description of the Masai and Wakwafi tribes in southeast Africa&amp;rdquo; which appeared in the journal Das Ausland in 1857. The author was Johann Krapf, a missionary who lived in a village inland from Mombasa from 1846 to 1853. From there, he made a number of travels deep into the East African interior in what is now Kenya and Tanzania.</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://mwanakijiji.github.io/cv/cv/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mwanakijiji.github.io/cv/cv/</guid>
+      <description>App 1 Here is my CV (last update Sept. 26, 2021)
+Here is my short CV (last update Sept. 26, 2021)</description>
     </item>
     
     <item>
@@ -45,12 +56,39 @@ Doc: Memories from a Life in Public Service (Otis Bowen)</description>
     </item>
     
     <item>
-      <title>Research</title>
-      <link>https://mwanakijiji.github.io/research/</link>
-      <pubDate>Tue, 29 Dec 2020 12:14:32 -0500</pubDate>
+      <title>Fancy App 1</title>
+      <link>https://mwanakijiji.github.io/itemized/item1/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/research/</guid>
-      <description>I am a postdoc in Jeff Chilcote&amp;rsquo;s research lab at the University of Notre Dame, where I am in charge of testing and upgrading components of the Gemini Planet Imager instrument in preparation for installing it on the Gemini-North telescope in Hawaii. The motivation of this upgrade is to survey for massive planets with low initial starting entropies (i.e., cool planets), and thereby provide additional constraints on the physics of planet formation.</description>
+      <guid>https://mwanakijiji.github.io/itemized/item1/</guid>
+      <description>App 1 </description>
+    </item>
+    
+    <item>
+      <title>Fancy App 2</title>
+      <link>https://mwanakijiji.github.io/itemized/item2/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mwanakijiji.github.io/itemized/item2/</guid>
+      <description>App 2 </description>
+    </item>
+    
+    <item>
+      <title>Fancy App 3</title>
+      <link>https://mwanakijiji.github.io/itemized/item3/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mwanakijiji.github.io/itemized/item3/</guid>
+      <description>App 3 </description>
+    </item>
+    
+    <item>
+      <title>Fancy App 4</title>
+      <link>https://mwanakijiji.github.io/itemized/item4/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://mwanakijiji.github.io/itemized/item4/</guid>
+      <description>App 4 </description>
     </item>
     
   </channel>

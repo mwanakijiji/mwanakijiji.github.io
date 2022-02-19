@@ -3,13 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mwanakijiji.github.io/personal/personal/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/blog/krapf/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mwanakijiji.github.io/blog/</loc>
     <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://mwanakijiji.github.io/categories/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/cv/cv/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/cv/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/categories/hugo/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mwanakijiji.github.io/personal/</loc>
-    <lastmod>2020-12-29T12:15:12-05:00</lastmod>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/research/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/tags/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/tags/tutorial/</loc>
+    <lastmod>2021-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,20 +68,37 @@
   </url>
   
   <url>
-    <loc>https://mwanakijiji.github.io/research/</loc>
-    <lastmod>2020-12-29T12:14:32-05:00</lastmod>
+    <loc>https://mwanakijiji.github.io/itemized/item1/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mwanakijiji.github.io/categories/</loc>
+    <loc>https://mwanakijiji.github.io/itemized/item2/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mwanakijiji.github.io/</loc>
+    <loc>https://mwanakijiji.github.io/itemized/item3/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mwanakijiji.github.io/tags/</loc>
+    <loc>https://mwanakijiji.github.io/itemized/item4/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/itemized/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mwanakijiji.github.io/contact/</loc>
   </url>
   
 </urlset>
