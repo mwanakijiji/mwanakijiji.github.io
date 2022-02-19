@@ -7,5 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mwanakijiji.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://mwanakijiji.github.io/research/research/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mwanakijiji.github.io/research/research/</guid>
+      <description>I am a postdoc in Jeff Chilcote&amp;rsquo;s research lab at the University of Notre Dame, where I am in charge of testing and upgrading components of the Gemini Planet Imager instrument in preparation for installing it on the Gemini-North telescope in Hawaii. The motivation of this upgrade is to survey for massive planets with low initial starting entropies (i.e., cool planets), and thereby provide additional constraints on the physics of planet formation.</description>
+    </item>
+    
   </channel>
 </rss>
