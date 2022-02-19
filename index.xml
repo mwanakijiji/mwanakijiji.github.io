@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>About me</title>
-      <link>https://mwanakijiji.github.io/personal/personal/</link>
-      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mwanakijiji.github.io/personal/personal/</guid>
-      <description>I&amp;rsquo;m originally from downstate Illinois, where I dropped out of high school and went to college. From time to time I have bounced around between three continents. In my free time I enjoy scuba diving, international travel, reading excellent writing (here is a reading list), and the great outdoors. I also enjoy ham radio, and made a WSPR (low-power) radio beacon with a dipole antenna and a Raspberry Pi in my apartment, and the image above shows a sample of contacts it made in a one-hour period at a wavelength of 20 meters, while consuming 2 watts&amp;mdash; just a little more than a MacBook in sleep mode.</description>
-    </item>
-    
-    <item>
       <title>CV</title>
       <link>https://mwanakijiji.github.io/cv/cv/</link>
       <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
@@ -37,11 +28,21 @@ Here is my short CV (last update Sept. 26, 2021)</description>
     
     <item>
       <title>Research</title>
-      <link>https://mwanakijiji.github.io/research/research/</link>
+      <link>https://mwanakijiji.github.io/research/</link>
       <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/research/research/</guid>
+      <guid>https://mwanakijiji.github.io/research/</guid>
       <description>I am a postdoc in Jeff Chilcote&amp;rsquo;s research lab at the University of Notre Dame, where I am in charge of testing and upgrading components of the Gemini Planet Imager instrument in preparation for installing it on the Gemini-North telescope in Hawaii. The motivation of this upgrade is to survey for massive planets with low initial starting entropies (i.e., cool planets), and thereby provide additional constraints on the physics of planet formation.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://mwanakijiji.github.io/personal/</link>
+      <pubDate>Tue, 29 Dec 2020 12:15:12 -0500</pubDate>
+      
+      <guid>https://mwanakijiji.github.io/personal/</guid>
+      <description>I&amp;rsquo;m originally from downstate Illinois, where I dropped out of high school and went to college. From time to time I have bounced around between three continents. In my free time I enjoy scuba diving, international travel, reading excellent writing (here is a reading list), and the great outdoors.
+Above: I also enjoy ham radio, and made a WSPR (low-power) radio beacon with a dipole antenna and a Raspberry Pi in my apartment.</description>
     </item>
     
     <item>
