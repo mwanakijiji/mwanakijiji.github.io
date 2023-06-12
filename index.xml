@@ -1,121 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eckhart&#39;s site</title>
+    <title>Eckhart Spalding</title>
     <link>https://mwanakijiji.github.io/</link>
-    <description>Recent content on Eckhart&#39;s site</description>
+    <description>Recent content on Eckhart Spalding</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mwanakijiji.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Unveiling exozodiacal light</title>
-      <link>https://mwanakijiji.github.io/blog/phys_today/</link>
+      <title>Unveiling exozodiacal dust</title>
+      <link>https://mwanakijiji.github.io/2022/04/01/phys-today/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/blog/phys_today/</guid>
+      <guid>https://mwanakijiji.github.io/2022/04/01/phys-today/</guid>
       <description>We&amp;rsquo;ve put out an article in Physics Today about the story of nulling interferometry to characterize the exozodiacal dust population. Read all about it here.
-(The above photo of the Large Binocular Telescope backdropped by the Milky Way was taken by Ryan Ketterer, and Steve Ertel added in the cone of light on the right-hand side to illustrate the disk of zodiacal dust in our own solar system&amp;mdash; which in reality is outside the frame of this image.</description>
+The above photo of the Large Binocular Telescope backdropped by the Milky Way was taken by Ryan Ketterer, and Steve Ertel added in the cone of light on the right-hand side to illustrate the disk of zodiacal dust in our own solar system&amp;mdash; which in reality is outside the frame of this image.</description>
     </item>
     
     <item>
       <title>The quest for exoplanet direct imaging with ELT apertures</title>
-      <link>https://mwanakijiji.github.io/blog/exoexplorer/</link>
+      <link>https://mwanakijiji.github.io/2022/03/18/exoexplorer/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/blog/exoexplorer/</guid>
+      <guid>https://mwanakijiji.github.io/2022/03/18/exoexplorer/</guid>
       <description>Here is the video recording of my talk &amp;ldquo;The quest for exoplanet direct imaging with ELT apertures,&amp;rdquo; part of the NASA ExoExplorer 2022 science series.
 Abstract: Direct imaging of exoplanets is a promising route to finding and characterizing exoplanets in the thermal infrared. Currently the technique is most sensitive to massive, young planets on wide orbits. Innovative observing techniques are necessary to probe smaller angles from host stars, or search for older or lower-mass planets.</description>
     </item>
     
     <item>
-      <title>Seeing the Light</title>
-      <link>https://mwanakijiji.github.io/blog/univ_revealed/</link>
+      <title>Our Universe Revealed</title>
+      <link>https://mwanakijiji.github.io/2021/11/30/our-universe-revealed/</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/blog/univ_revealed/</guid>
+      <guid>https://mwanakijiji.github.io/2021/11/30/our-universe-revealed/</guid>
       <description>Here is the video recording of my talk &amp;ldquo;Seeing the Light: Hunting for solar systems like our own,&amp;rdquo; part of the University of Notre Dame&amp;rsquo;s public science talk series Our Universe Revealed.
 Abstract: A group of astronomers recently carried out a survey of nearby stars, called the “Hunt for Observable Signatures of Terrestrial Systems.” The survey used the Large Binocular Telescope in Arizona to measure the faint signals of dust around stars and provide the first realistic hints of discovering Earth-like planets around other stars using future space-based missions.</description>
     </item>
     
     <item>
-      <title>An early account of the Maasai</title>
-      <link>https://mwanakijiji.github.io/blog/krapf/</link>
+      <title>Krapf&#39;s 1857 account of the Maasai</title>
+      <link>https://mwanakijiji.github.io/2021/09/30/krapf-1857/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/blog/krapf/</guid>
+      <guid>https://mwanakijiji.github.io/2021/09/30/krapf-1857/</guid>
       <description>I have translated one of the oldest published accounts of the Maasai (with careful proofreading from my mom). It is the article &amp;ldquo;A short description of the Masai and Wakwafi tribes in southeast Africa&amp;rdquo; which appeared in the journal Das Ausland (Abroad) in 1857. The author was Johann Krapf, a missionary who lived in a village inland from Mombasa from 1846 to 1853. From there, he made a number of travels deep into the East African interior in what is now Kenya and Tanzania.</description>
     </item>
     
     <item>
-      <title>Research</title>
-      <link>https://mwanakijiji.github.io/research/</link>
-      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://mwanakijiji.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/research/</guid>
-      <description>[ADS Publications]
-I am a postdoc in Jeff Chilcote&amp;rsquo;s research lab at the University of Notre Dame, where I am in charge of testing and upgrading components of the Gemini Planet Imager instrument in preparation for installing it on the Gemini-North telescope in Hawaii. The motivation of this upgrade is to survey for massive planets with low initial starting entropies (i.e., cool planets), and thereby provide additional constraints on the physics of planet formation.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://mwanakijiji.github.io/personal/</link>
-      <pubDate>Tue, 29 Dec 2020 12:15:12 -0500</pubDate>
-      
-      <guid>https://mwanakijiji.github.io/personal/</guid>
-      <description>I&amp;rsquo;m originally from downstate Illinois, where I dropped out of high school and went to college. From time to time I have bounced around between three continents. In my free time I enjoy scuba diving, international travel, excellent writing, and the great outdoors.
+      <guid>https://mwanakijiji.github.io/about/</guid>
+      <description>About Me I&amp;rsquo;m originally from downstate Illinois, where I dropped out of high school and went to college. From time to time I have bounced around between four continents. In my free time I enjoy scuba diving, international travel, excellent writing, and the great outdoors.
 Above: I also enjoy ham radio, and made a WSPR (low-power) radio beacon with a dipole antenna and a Raspberry Pi in my apartment. This image shows a sample of contacts it made in a one-hour period at a wavelength of 20 meters, while consuming 2 watts&amp;mdash; just a little more than a MacBook in sleep mode.</description>
     </item>
     
     <item>
-      <title>Reading list</title>
+      <title></title>
+      <link>https://mwanakijiji.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mwanakijiji.github.io/notes/</guid>
+      <description>Go 语言学习笔记 Envoy 学习笔记 </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://mwanakijiji.github.io/reading_list/</link>
-      <pubDate>Tue, 29 Dec 2020 12:15:12 -0500</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mwanakijiji.github.io/reading_list/</guid>
-      <description>2022:
-World War Three: August 1985 (Gen. Sir John Hackett et al.)
-Moving the Maasai: A Colonial Misadventure (Lotte Hughes)
-A Brief History of the Netherlands (Paul State)
-Ice Ghosts: The Epic Hunt for the Lost Franklin Expedition (Paul Watson)
-The University of Notre Dame: A History (Thomas Blantz)
-Notre Dame at 175: A Visual History (Charles Lamb and Elizabeth Hogan)
-The Penguin Historical Atlas of the British Empire (Nigel Dalziel)</description>
+      <description>2023:
+Hoosiers: A New History (James H. Madison)
+Follow the Rabbit-Proof Fence (Doris Pilkington)
+The Fatal Shore (Robert Hughes)
+The Bastion of Liberty: Leiden University Today and Yesterday (Willem Otterspeer)
+Legacy of Violence: A History of the British Empire (Caroline Elkins) The Strittmatter Years (Liz Hibbard) The Battle of Arnhem: The Deadliest Airborne Operation of World War II (Antony Beevor)
+2022:
+Giant Telescopes: Astronomical Ambition and the Promise of Technology (W.</description>
     </item>
     
     <item>
-      <title>Fancy App 1</title>
-      <link>https://mwanakijiji.github.io/itemized/item1/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://mwanakijiji.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/itemized/item1/</guid>
-      <description>App 1 </description>
+      <guid>https://mwanakijiji.github.io/research/</guid>
+      <description>[ADS Publications]
+I am a postdoc at the University of Sydney, where I am part of the Australia-based gang upgrading the GLINT nulling interferometer instrument on the Subaru Telescope. GLINT uses integrated photonics technology to miniaturize what used to only be done with bulk optics, and we&amp;rsquo;re pushing the technology to ever greater science capabilities.
+From 2020 to 2023 I was a postdoc in Jeff Chilcote&amp;rsquo;s research lab at the University of Notre Dame, where I was in charge of testing and upgrading components of the Gemini Planet Imager instrument in preparation for installing it on the Gemini-North telescope in Hawaii.</description>
     </item>
     
     <item>
-      <title>Fancy App 2</title>
-      <link>https://mwanakijiji.github.io/itemized/item2/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://mwanakijiji.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/itemized/item2/</guid>
-      <description>App 2 </description>
+      <guid>https://mwanakijiji.github.io/search/placeholder/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Fancy App 3</title>
-      <link>https://mwanakijiji.github.io/itemized/item3/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>Posts Archive</title>
+      <link>https://mwanakijiji.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mwanakijiji.github.io/itemized/item3/</guid>
-      <description>App 3 </description>
-    </item>
-    
-    <item>
-      <title>Fancy App 4</title>
-      <link>https://mwanakijiji.github.io/itemized/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mwanakijiji.github.io/itemized/item4/</guid>
-      <description>App 4 </description>
+      <guid>https://mwanakijiji.github.io/archive/</guid>
+      <description></description>
     </item>
     
   </channel>
