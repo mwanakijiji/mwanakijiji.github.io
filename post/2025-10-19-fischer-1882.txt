@@ -2,10 +2,10 @@
 layout:     post 
 title:      "Gustav Fischer's account of his 1883 expedition"
 subtitle:   ""
-date:       2024-03-04
+date:       2025-10-19
 author:     "E.S."
 URL: "/2021/09/30/krapf-1857/"
-image:      "img/IMG_0779_2.JPG"
+image:      "img/afm0001271.jpg"
 ---
 
 ![Krapf](/img/fischer_blog.jpg)
