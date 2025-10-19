@@ -1,0 +1,24 @@
+---
+layout:     post 
+title:      "Gustav Fischer's account of his 1883 expedition"
+subtitle:   ""
+date:       2024-03-04
+author:     "E.S."
+URL: "/2021/09/30/krapf-1857/"
+image:      "img/IMG_0779_2.JPG"
+---
+
+![Krapf](/img/fischer_blog.jpg)
+
+My mom and I have translated another rare account of a pre-colonial venture into East Africa: the 1882-3 expedition of the naturalist Gustav Fischer, as recounted in the article "Report of the Journey into Massailand, taken under commission for the Geographical Society in Hamburg" (Link [here](/doc/fischer_1883_geographisch.pdf)) which appeared in the journal *Mittheilungen der Geographischen Gesellschaft in Hamburg* (*Transactions of the Geographical Society in Hamburg*), *1882-83*. Fischer ventured inland from Pangai (in today's Tanzania) all the way to Lake Naivasha (in today’s Kenya), traveling through Maasailand some months before the more well-known expedition of Joseph Thomson.
+
+Fischer’s article begins by describing the logistics of setting up an expedition, including recruiting labor. As he proceeds on his journey, he describes the various items used for bartering, tribute payments, and (in one case) blood money. He describes the varied flora, fauna, terrain, and geology of the landscapes he passes through in minute detail, as well as meteorological observations and the fertility (or lack thereof) of the land, as well as his caravan’s ability to find provisions.
+
+Fischer’s route goes up the Pangani River, skirts the Usambara and Pare mountains, past Mount Kilimanjaro (whose snows he describes as seen from a distance) and Mount Meru, past Lake Natron, and north along the foothills of Nguruman. He reaches as far north as Lake Naivasha before turning back, and describes the hydrothermally active area of hot springs and steam vents south of the lake. 
+
+Along the way, he includes descriptions of tribes (such as the Waruvu and Wandorobo, and especially the Wakwavi and Maasai) and headmen he encounters and their cultural, geographic, and adversarial relations with each other. The Wakwavi are described as a once-powerful tribe living in areas now dominated by the Maasai, with whom they have integrated to varying degrees. Fischer describes the Maasai in considerable detail, including descriptions of their huts and encampments, clothing, ornamentation, ethnic complexions, livestock, their diet and mores surrounding it, the divisions of roles between men and women, the different classes among Maasai men, their beliefs in supernatural powers, their rites, and the rough concept of “Ngai.” 
+
+Fischer relates a number of anecdotes of his firsthand interactions with the Maasai, including a few bits of dialog as interpreted by a translator. Fischer provides secondhand descriptions of Maasai raids, and firsthand descriptions of two attempted attacks on his caravan by Maasai warriors. He describes the influence of the Mbatián, the most powerful and affluent single individual among the Maasai, though his information is secondhand.
+
+A few photographs appear in the text, and an appendix includes drawings and descriptions of ethnological artifacts.
+
